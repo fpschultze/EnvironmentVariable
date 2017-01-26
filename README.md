@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f3cl7slwdhpv573q?svg=true)](https://ci.appveyor.com/project/fpschultze/environmentvariable)
+[![Build status](https://ci.appveyor.com/api/projects/status/8wbs4gpoq2r24bsy?svg=true)](https://ci.appveyor.com/project/fpschultze/environmentvariable)
 
 # Environment Variable PowerShell Module
 
